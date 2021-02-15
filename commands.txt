@@ -1,0 +1,75 @@
+RECON Commands
+
+What is my name
+What is my address
+Where am I
+What is my birthday
+What is my gender
+
+Turn off all devices
+Turn on all devices
+What devices do I have
+
+Turn off wifi
+
+Take me home
+Take me to work
+
+
+[ FUNNY ]
+
+Set volume to max **MIXED WITH** play who let the dogs out (this will make it so google cant hear you trying to shut it off)
+
+=========================
+
+[ SMART HOME COMMANDS ]
+
+raise the temperature <number> degrees (ex: raise the temperature 100 degrees)
+set the thermostat to <number> degrees
+turn on all the switches
+turn off all the switches
+lock the front door
+open the front door
+close the blinds
+open the blinds
+answer the door
+Change the temparture to 100 degrees
+**MIXED WITH**
+Shutdown
+
+[ Phone commands ]
+
+call the nearest <place> (ex: call the nearest starbucks)
+
+
+Call <phone number>
+Text <phone number> <text>
+
+Text <contact> <message>
+
+Send a Hangout message to <name>
+Call <number or contact>
+Find my phone
+
+Email <name> subject <subject> message <message>
+
+Open <app>
+Go to <website> (COULD BE A MALICIOUS SITE OR IP GRABBER)
+
+[ Broadcast - sends message to all other google home devices ]
+
+broadcast <message>
+shout <message>
+tell everyone <message>
+announce <message>
+
+[Paired Devices Commands]
+
+**
+Take a picture
+Take a selfie
+
+COMBINED WITH
+
+Send latest picture to <number>
+**
